@@ -57,7 +57,7 @@
 | Ruby                   | @andres_code - @highercomve - @hipsss | https://telegram.me/ruby_ve                |
 | SEO                    | @oteroweb          | https://telegram.me/joinchat/BSBThwXSgx0-XiGZL6P6fQ           |
 | ST.ve                  | @Tur3c0            | https://telegram.me/st3_ve                                    |
-| Symfony                |                    | https://telegram.me/joinchat/BSBThwZJsMqkvtk63D5-hA           |
+| Symfony                |  @oteroweb         | https://t.me/symfonyVe                                        |
 | SysAdminVE             | @arawako           | https://telegram.me/SysAdminVE                                |
 | Tabletas Canaima       | @edgardoweb        | https://telegram.me/joinchat/AGqisAI0UHkuBQDbuWm34g           |
 | Telegram Venezuela     | @tomivs @vicxyz    | http://telegram.me/VenezuelaTG                                |
